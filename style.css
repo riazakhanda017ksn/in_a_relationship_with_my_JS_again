@@ -1,0 +1,13 @@
+.win{
+    color: red;
+}
+.lost{
+    color: blue;
+}
+
+span.red {
+    color: red;
+    font-size: 49px;
+    display: block;
+    text-align: center;
+}
